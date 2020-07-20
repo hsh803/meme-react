@@ -2,7 +2,7 @@
 
 - This MeMe application is built in React.
 - Create funny meme images fetched from API.
-- <a href="hsh803.github.io/meme-react/">Link</a> to app.
+- <a href="hsh803.github.io/meme-react">Link</a> to app.
 
 ## How to use
 
